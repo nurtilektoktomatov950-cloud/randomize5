@@ -6,5 +6,8 @@
   "d1_databases": [
     { "binding": "DB", "database_name": "randomizer", "database_id": "88125b8f-f21b-47bd-9471-f457a0958be6" }
   ],
-  "vars": { "WEBAPP_URL": "https://nurtilektoktomatov950-cloud.github.io/BestRandomizer/", "TZ": "Asia/Bishkek" }
+  "vars": {
+  "WEBAPP_URL": "https://nurtilektoktomatov950-cloud.github.io/BestRandomizer/",
+  "TZ": "Asia/Bishkek",
+  "APP_LINK": "https://t.me/BestRandomizerApp/Randomizer"
 }
