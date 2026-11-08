@@ -1,6 +1,6 @@
 {
   "name": "randomizer-bot",
-  "main": "bot.js",
+  "main": "bot2.js",
   "compatibility_date": "2025-01-01",
   "triggers": { "crons": ["* * * * *"] },
   "d1_databases": [
